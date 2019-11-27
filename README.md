@@ -7,5 +7,5 @@
 npm install
 
 # 运行
-node index.js
+npm start
 ```
